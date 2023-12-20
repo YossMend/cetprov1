@@ -1,0 +1,106 @@
+@charset "utf-8";
+.espacio .secundaria2 {
+    width: 34%;
+    height: 205px;
+    margin-top: 49px;
+    padding-bottom: 0px;
+    float: left;
+    background-repeat: repeat-x;
+}
+.secundaria2 .articulo8 img {
+    width: 299%;
+    height: 308px;
+    padding-left: 0px;
+    margin-left: 19px;
+    float: left;
+    clear: left;
+    padding-right: 231px;
+    font-weight: 100;
+}
+.espacio footer {
+    background-color: #F8F9FA;
+    width: 100%;
+    height: 36px;
+    text-align: left;
+    font-size: 15pt;
+    color: #0689E8;
+}
+
+.espacio img {
+    width: 11%;
+    height: 41px;
+    margin-right: 39px;
+    margin-left: 95px;
+}
+.espacio img {
+    width: 10%;
+    float: right;
+    color: #FFFFFF;
+}
+.espacio .secundaria3 .articulo10 {
+}
+.articulo1 {
+    width: 43%;
+    float: right;
+    height: 68px;
+    margin-right: 110px;
+    margin-top: 20px;
+}
+.articulo1 img {
+    width: 22%;
+    height: 86px;
+    margin-right: 90px;
+    margin-top: 7px;
+}
+
+.articulo2 {
+    width: 44%;
+    height: 41px;
+    font-size: 33pt;
+    text-decoration: none;
+    margin-top: 79px;
+    margin-left: -59px;
+    margin-right: -341px;
+    text-align: center;
+    float: right;
+    padding-left: 0px;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.articulo3 {
+}
+.articulo3 img {
+    width: 9%;
+    height: 73px;
+    margin-top: 69px;
+    margin-left: 44px;
+    margin-right: 75px;
+}
+.articulo5 {
+    width: 23%;
+    height: 48px;
+    text-align: left;
+    margin-left: 71px;
+    font-size: 34pt;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    float: right;
+    margin-top: -69px;
+    margin-right: 601px;
+
+}
+body section img {
+    width: 9%;
+    height: 74px;
+    margin-left: 60px;
+    margin-right: 964px;
+    margin-top: -41px;
+}
+
+body section {
+    width: 100%;
+    height: 185px;
+    margin-left: -35px;
+    float: right;
+}
+.articulo6 {
+    width: 26%;
+}
